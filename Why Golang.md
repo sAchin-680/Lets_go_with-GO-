@@ -32,7 +32,7 @@ I'll be sharing:
 - 🔍 Code snippets & projects
 - 📝 Challenges & solutions
 
-Follow me on **[Twitter](https://twitter.com/yourhandle)** to stay updated! 🚀
+Follow me on **[Twitter](https://x.com/_sAchin63)** to stay updated! 🚀
 
 ---
 
