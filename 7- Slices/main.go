@@ -74,7 +74,7 @@ func main() {
 
 	// Use case: Checking if a slice is nil
 	var anotherNilSlice []int
-	if anotherNilSlice == nil {
+	if len(anotherNilSlice) == 0 {
 		fmt.Println("The slice is nil")
 	}
 
